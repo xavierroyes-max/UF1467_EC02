@@ -47,5 +47,5 @@ echo "# Guía básica de Git y GitHub" > README.md
 git add .
 git commit -m "README inicial"
 git branch -M main
-git remote add origin https://github.com/usuario/UF1467_EC02_nombre_apellido.git
+git remote add origin https://github.com/xavierroyes-max/UF1467_EC02_xavier_royes.git
 git push -u origin main# UF1467_EC02
